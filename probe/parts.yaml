@@ -1,0 +1,7 @@
+apiVersion: 0.0.1
+kind: ksonnet.io/parts
+name: probe
+description: >
+  Provides API to help with managing probes.
+author: Bryan Liles <bryan@heptio.io>
+license: Apache 2.0
